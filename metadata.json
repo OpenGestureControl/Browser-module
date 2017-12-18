@@ -4,6 +4,9 @@
   "supported_executables": {
       "win32": ["firefox.exe", "chrome.exe"]
   },
+  "supported_classnames": {
+      "linux": ["Firefox", "Chrome", "Chromium"]
+  },
   "supported_titles": {
       "all": ["* - Mozilla Firefox", "* - Google Chrome"]
   }
